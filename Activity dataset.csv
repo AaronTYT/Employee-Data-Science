@@ -1,0 +1,748 @@
+DATE,EMPLOYEE,ORIGIN,DESTINATION,TRAVEL_TIME_MINS
+30/12/2019,Joe,Oak Lawn ,River Island,35.83355556
+31/12/2019,Eddie,Forest Field,Blue View,27.285
+1/01/2020,Eddie,Forest Field,Blue View,37.99944444
+3/01/2020,Eddie,Forest Field,Blue View,33.86361111
+4/01/2020,Eddie,Forest Field,Blue View,36.02638889
+6/01/2020,Eddie,Forest Field,Blue View,34.2925
+7/01/2020,Harry,Oak Lawn ,River Island,73.15944444
+7/01/2020,Eddie,Forest Field,Blue View,32.53444444
+9/01/2020,Eddie,Forest Field,Blue View,55.92
+11/01/2020,Eddie,Forest Field,Blue View,25.81694444
+12/01/2020,Eddie,Forest Field,Blue View,35.18388889
+13/01/2020,Eddie,Forest Field,Blue View,22.84972222
+14/01/2020,Eddie,Forest Field,Blue View,31.42805556
+15/01/2020,Joe,Middle North,River Island,35.79311111
+16/01/2020,Eddie,Forest Field,Blue View,24.34305556
+18/01/2020,Andy,Middle North,Creek Springs,38.21277778
+18/01/2020,Eddie,Forest Field,Blue View,25.33277778
+19/01/2020,Eddie,Forest Field,Blue View,27.1225
+21/01/2020,Harry,Middle North,River Island,71.77444444
+21/01/2020,Eddie,Forest Field,Blue View,36.94944444
+23/01/2020,Eddie,Forest Field,Blue View,27.81472222
+23/01/2020,Andy,Oak Lawn ,Creek Springs,29.6575
+24/01/2020,Andy,Middle North,Creek Springs,34.01277778
+24/01/2020,Eddie,Forest Field,Blue View,26.49166667
+25/01/2020,Joe,Middle North,River Island,29.34555556
+25/01/2020,Eddie,Forest Field,Blue View,27.015
+26/01/2020,Eddie,Forest Field,Blue View,21.615
+27/01/2020,Eddie,Forest Field,Blue View,25.24388889
+28/01/2020,Eddie,Forest Field,Blue View,51.6425
+1/02/2020,Eddie,Forest Field,Blue View,29.66222222
+2/02/2020,Eddie,Forest Field,Blue View,26.465
+3/02/2020,Andy,Oak Lawn ,River Island,39.01527778
+5/02/2020,Eddie,Forest Field,Blue View,26.12083333
+11/02/2020,Harry,Oak Lawn ,Creek Springs,35.82
+13/02/2020,Eddie,Forest Field,Blue View,46.7225
+16/02/2020,Eddie,Forest Field,Blue View,23.27444444
+18/02/2020,Eddie,Forest Field,Blue View,23.96944444
+19/02/2020,Eddie,Forest Field,Blue View,21.61694444
+20/02/2020,Harry,Oak Lawn ,River Island,39.88861111
+20/02/2020,Eddie,Forest Field,Blue View,41.24555556
+21/02/2020,Andy,Middle North,River Island,40.32944444
+21/02/2020,Eddie,Forest Field,Blue View,28.39
+23/02/2020,Joe,Middle North,River Island,31.30266667
+23/02/2020,Harry,Middle North,River Island,39.96416667
+23/02/2020,Eddie,Forest Field,Blue View,26.60444444
+24/02/2020,Eddie,Forest Field,Blue View,28.06666667
+25/02/2020,Andy,Middle North,River Island,48.24777778
+26/02/2020,Harry,Middle North,River Island,42.99472222
+26/02/2020,Eddie,Forest Field,Blue View,29.72722222
+27/02/2020,Eddie,Forest Field,Blue View,228.4861111
+27/02/2020,Harry,Middle North,River Island,39.36
+1/03/2020,Harry,Oak Lawn ,Creek Springs,30.55
+4/03/2020,Andy,Oak Lawn ,Creek Springs,25.79611111
+8/03/2020,Eddie,Forest Field,Blue View,25.94861111
+8/03/2020,Eddie,Forest Field,Blue View,22.16444444
+10/03/2020,Andy,Middle North,River Island,49.28972222
+10/03/2020,Eddie,Forest Field,Blue View,25.17055556
+11/03/2020,Eddie,Forest Field,Blue View,28.17277778
+12/03/2020,Eddie,Forest Field,Blue View,23.25138889
+13/03/2020,Eddie,Forest Field,Blue View,23.92583333
+14/03/2020,Eddie,Forest Field,Blue View,68.41444444
+15/03/2020,Andy,Oak Lawn ,River Island,33.1275
+17/03/2020,Eddie,Forest Field,Blue View,27.33305556
+17/03/2020,Andy,Middle North,Creek Springs,36.21361111
+21/03/2020,Joe,Oak Lawn ,River Island,30.96422222
+23/03/2020,Eddie,Forest Field,Blue View,28.21444444
+24/03/2020,Joe,Oak Lawn ,River Island,31.95333333
+25/03/2020,Eddie,Forest Field,Blue View,25.44888889
+26/03/2020,Eddie,Forest Field,Blue View,28.6175
+28/03/2020,Joe,Middle North,River Island,77.97622222
+28/03/2020,Eddie,Forest Field,Blue View,22.675
+29/03/2020,Eddie,Forest Field,Blue View,30.53055556
+30/03/2020,Eddie,Forest Field,Blue View,23.3825
+31/03/2020,Eddie,Forest Field,Blue View,23.85777778
+1/04/2020,Eddie,Forest Field,Blue View,30.67361111
+2/04/2020,Harry,Middle North,Creek Springs,36.42638889
+4/04/2020,Harry,Oak Lawn ,River Island,38.81388889
+5/04/2020,Eddie,Forest Field,Blue View,23.35666667
+6/04/2020,Eddie,Forest Field,Blue View,28.79722222
+7/04/2020,Joe,Middle North,River Island,28.57333333
+7/04/2020,Andy,Oak Lawn ,Creek Springs,25.27555556
+7/04/2020,Eddie,Forest Field,Blue View,30.89027778
+8/04/2020,Eddie,Forest Field,Blue View,30.72361111
+9/04/2020,Eddie,Forest Field,Blue View,23.7675
+10/04/2020,Harry,Oak Lawn ,River Island,36.99638889
+10/04/2020,Eddie,Forest Field,Blue View,28.6025
+11/04/2020,Andy,Oak Lawn ,River Island,32.20111111
+12/04/2020,Joe,Oak Lawn ,Creek Springs,20.29911111
+13/04/2020,Harry,Oak Lawn ,River Island,43.69194444
+14/04/2020,Eddie,Forest Field,Blue View,29.98888889
+15/04/2020,Eddie,Forest Field,Blue View,23.71111111
+18/04/2020,Eddie,Forest Field,Blue View,25.31583333
+19/04/2020,Andy,Oak Lawn ,River Island,48.80638889
+19/04/2020,Eddie,Forest Field,Blue View,44.99805556
+21/04/2020,Eddie,Forest Field,Blue View,24.58083333
+22/04/2020,Eddie,Forest Field,Blue View,23.70777778
+23/04/2020,Eddie,Forest Field,Blue View,26.97
+23/04/2020,Harry,Oak Lawn ,Creek Springs,27.85638889
+24/04/2020,Eddie,Forest Field,Blue View,21.72
+25/04/2020,Eddie,Forest Field,Blue View,24.91916667
+26/04/2020,Eddie,Forest Field,Blue View,29.51555556
+26/04/2020,Andy,Oak Lawn ,Creek Springs,23.06138889
+28/04/2020,Eddie,Forest Field,Blue View,31.02
+28/04/2020,Joe,Middle North,Creek Springs,21.07755556
+29/04/2020,Eddie,Forest Field,Blue View,43.80194444
+1/05/2020,Harry,Middle North,Creek Springs,40.25444444
+1/05/2020,Eddie,Forest Field,Blue View,22.60333333
+2/05/2020,Eddie,Forest Field,Blue View,30.67194444
+2/05/2020,Andy,Middle North,River Island,60.22944444
+3/05/2020,Eddie,Forest Field,Blue View,29.35722222
+5/05/2020,Andy,Oak Lawn ,Creek Springs,29.78194444
+7/05/2020,Eddie,Forest Field,Blue View,24.25722222
+8/05/2020,Eddie,Forest Field,Blue View,21.77694444
+11/05/2020,Eddie,Forest Field,Blue View,34.19722222
+13/05/2020,Eddie,Forest Field,Blue View,22.92305556
+15/05/2020,Eddie,Forest Field,Blue View,31.81555556
+15/05/2020,Harry,Middle North,River Island,34.84722222
+17/05/2020,Joe,Middle North,River Island,26.842
+20/05/2020,Eddie,Forest Field,Blue View,21.28861111
+21/05/2020,Eddie,Forest Field,Blue View,26.645
+30/05/2020,Eddie,Forest Field,Blue View,36.52944444
+2/06/2020,Joe,Middle North,Creek Springs,26.10688889
+3/06/2020,Eddie,Forest Field,Blue View,24.94666667
+3/06/2020,Joe,Middle North,River Island,28.88155556
+4/06/2020,Andy,Oak Lawn ,River Island,41.09305556
+4/06/2020,Eddie,Forest Field,Blue View,20.61055556
+5/06/2020,Eddie,Forest Field,Blue View,25.23944444
+6/06/2020,Andy,Middle North,Creek Springs,51.195
+9/06/2020,Joe,Oak Lawn ,River Island,29.19844444
+11/06/2020,Harry,Oak Lawn ,Creek Springs,27.57361111
+13/06/2020,Joe,Oak Lawn ,River Island,34.58266667
+14/06/2020,Eddie,Forest Field,Blue View,22.695
+15/06/2020,Eddie,Forest Field,Blue View,36.09972222
+16/06/2020,Eddie,Forest Field,Blue View,25.56361111
+17/06/2020,Harry,Oak Lawn ,River Island,40.60444444
+18/06/2020,Eddie,Forest Field,Blue View,28.15277778
+19/06/2020,Harry,Middle North,River Island,50.9275
+20/06/2020,Eddie,Forest Field,Blue View,27.0825
+20/06/2020,Joe,Middle North,Creek Springs,27.79466667
+21/06/2020,Eddie,Forest Field,Blue View,25.67527778
+24/06/2020,Joe,Middle North,River Island,53.40088889
+24/06/2020,Harry,Middle North,River Island,49.4725
+24/06/2020,Eddie,Forest Field,Blue View,24.29083333
+25/06/2020,Eddie,Forest Field,Blue View,24.89888889
+26/06/2020,Eddie,Forest Field,Blue View,23.24138889
+4/07/2020,Eddie,Forest Field,Blue View,28.27583333
+5/07/2020,Andy,Middle North,River Island,36.89722222
+5/07/2020,Joe,Middle North,River Island,33.81444444
+7/07/2020,Eddie,Forest Field,Blue View,23.49944444
+8/07/2020,Eddie,Forest Field,Blue View,25.74861111
+9/07/2020,Harry,Middle North,River Island,50.23222222
+12/07/2020,Eddie,Forest Field,Blue View,83.87638889
+14/07/2020,Harry,Middle North,River Island,37.83638889
+15/07/2020,Andy,Middle North,River Island,32.99055556
+17/07/2020,Andy,Middle North,River Island,39.09305556
+18/07/2020,Eddie,Forest Field,Blue View,32.30777778
+19/07/2020,Eddie,Forest Field,Blue View,24.05583333
+19/07/2020,Harry,Middle North,River Island,37.10527778
+20/07/2020,Eddie,Forest Field,Blue View,53.82166667
+22/07/2020,Eddie,Forest Field,Blue View,27.14638889
+23/07/2020,Eddie,Forest Field,Blue View,21.04027778
+24/07/2020,Eddie,Forest Field,Blue View,20.82583333
+24/07/2020,Harry,Oak Lawn ,Creek Springs,30.90444444
+25/07/2020,Eddie,Forest Field,Blue View,27.80777778
+25/07/2020,Harry,Oak Lawn ,Creek Springs,27.86111111
+29/07/2020,Eddie,Forest Field,Blue View,20.99222222
+30/07/2020,Eddie,Forest Field,Blue View,23.18277778
+31/07/2020,Eddie,Forest Field,Blue View,22.54166667
+1/08/2020,Eddie,Forest Field,Blue View,24.71583333
+2/08/2020,Eddie,Forest Field,Blue View,71.42805556
+5/08/2020,Eddie,Forest Field,Blue View,24.4325
+6/08/2020,Eddie,Forest Field,Blue View,22.94972222
+6/08/2020,Harry,Middle North,Creek Springs,38.86805556
+6/08/2020,Eddie,Forest Field,Blue View,21.92027778
+7/08/2020,Eddie,Forest Field,Blue View,24.0475
+8/08/2020,Eddie,Forest Field,Blue View,34.45055556
+10/08/2020,Eddie,Forest Field,Blue View,29.315
+11/08/2020,Eddie,Forest Field,Blue View,38.96416667
+11/08/2020,Harry,Oak Lawn ,River Island,39.54111111
+12/08/2020,Joe,Middle North,River Island,57.64733333
+14/08/2020,Eddie,Forest Field,Blue View,19.36444444
+18/08/2020,Andy,Oak Lawn ,Creek Springs,23.48472222
+19/08/2020,Andy,Oak Lawn ,River Island,45.47277778
+24/08/2020,Andy,Oak Lawn ,River Island,37.42138889
+26/08/2020,Eddie,Forest Field,Blue View,35.16638889
+27/08/2020,Andy,Middle North,Creek Springs,29.02944444
+28/08/2020,Eddie,Forest Field,Blue View,26.76833333
+29/08/2020,Eddie,Forest Field,Blue View,21.50083333
+1/09/2020,Eddie,Forest Field,Blue View,36.46527778
+1/09/2020,Harry,Oak Lawn ,River Island,37.63083333
+3/09/2020,Eddie,Forest Field,Blue View,21.73305556
+4/09/2020,Joe,Oak Lawn ,River Island,26.56688889
+4/09/2020,Andy,Oak Lawn ,River Island,37.72222222
+6/09/2020,Joe,Oak Lawn ,Creek Springs,21.84244444
+6/09/2020,Andy,Oak Lawn ,River Island,36.07472222
+6/09/2020,Eddie,Forest Field,Blue View,22.82833333
+7/09/2020,Eddie,Forest Field,Blue View,44.73333333
+8/09/2020,Eddie,Forest Field,Blue View,24.94388889
+10/09/2020,Eddie,Forest Field,Blue View,98.23638889
+13/09/2020,Harry,Middle North,Creek Springs,24.60888889
+14/09/2020,Eddie,Forest Field,Blue View,26.93166667
+15/09/2020,Eddie,Forest Field,Blue View,25.11888889
+16/09/2020,Eddie,Forest Field,Blue View,27.24805556
+16/09/2020,Harry,Oak Lawn ,Creek Springs,26.58333333
+16/09/2020,Joe,Oak Lawn ,River Island,27.08311111
+18/09/2020,Eddie,Forest Field,Blue View,32.22777778
+19/09/2020,Harry,Middle North,Creek Springs,28.19833333
+19/09/2020,Eddie,Forest Field,Blue View,22.20027778
+22/09/2020,Andy,Oak Lawn ,River Island,33.62916667
+23/09/2020,Eddie,Forest Field,Blue View,23.42638889
+24/09/2020,Eddie,Forest Field,Blue View,23.11666667
+25/09/2020,Eddie,Forest Field,Blue View,22.17027778
+26/09/2020,Harry,Middle North,Creek Springs,33.38055556
+26/09/2020,Eddie,Forest Field,Blue View,25.49361111
+27/09/2020,Eddie,Forest Field,Blue View,22.5175
+28/09/2020,Eddie,Forest Field,Blue View,27.67138889
+29/09/2020,Eddie,Forest Field,Blue View,24.73055556
+30/09/2020,Eddie,Forest Field,Blue View,21.34527778
+1/10/2020,Eddie,Forest Field,Blue View,23.44805556
+2/10/2020,Harry,Middle North,Creek Springs,46.39277778
+3/10/2020,Eddie,Forest Field,Blue View,24.68916667
+4/10/2020,Eddie,Forest Field,Blue View,22.94611111
+4/10/2020,Andy,Oak Lawn ,River Island,35.56527778
+5/10/2020,Eddie,Forest Field,Blue View,27.04694444
+5/10/2020,Andy,Middle North,Creek Springs,24.06444444
+5/10/2020,Harry,Oak Lawn ,River Island,41.41111111
+6/10/2020,Eddie,Forest Field,Blue View,26.81166667
+7/10/2020,Joe,Middle North,River Island,31.362
+9/10/2020,Joe,Oak Lawn ,Creek Springs,21.82066667
+10/10/2020,Andy,Middle North,Creek Springs,32.98055556
+10/10/2020,Eddie,Forest Field,Blue View,25.30361111
+11/10/2020,Eddie,Forest Field,Blue View,19.72111111
+12/10/2020,Eddie,Forest Field,Blue View,27.62472222
+12/10/2020,Andy,Oak Lawn ,River Island,35.21361111
+18/10/2020,Andy,Oak Lawn ,Creek Springs,38.39861111
+18/10/2020,Harry,Oak Lawn ,River Island,57.35305556
+18/10/2020,Eddie,Forest Field,Blue View,26.47166667
+19/10/2020,Joe,Oak Lawn ,River Island,37.47133333
+19/10/2020,Eddie,Forest Field,Blue View,24.40472222
+20/10/2020,Andy,Oak Lawn ,River Island,41.80444444
+23/10/2020,Harry,Oak Lawn ,Creek Springs,29.85888889
+23/10/2020,Eddie,Forest Field,Blue View,23.23972222
+24/10/2020,Andy,Middle North,River Island,43.97194444
+24/10/2020,Eddie,Forest Field,Blue View,35.79972222
+27/10/2020,Eddie,Forest Field,Blue View,98.49972222
+30/10/2020,Harry,Middle North,Creek Springs,32.81444444
+2/11/2020,Andy,Middle North,River Island,44.03027778
+2/11/2020,Eddie,Forest Field,Blue View,25.09888889
+4/11/2020,Eddie,Forest Field,Blue View,24.93055556
+5/11/2020,Eddie,Forest Field,Blue View,31.10694444
+9/11/2020,Joe,Oak Lawn ,River Island,29.35311111
+12/11/2020,Harry,Middle North,Creek Springs,23.06416667
+13/11/2020,Eddie,Forest Field,Blue View,38.64111111
+14/11/2020,Andy,Oak Lawn ,Creek Springs,22.48166667
+16/11/2020,Eddie,Forest Field,Blue View,25.44583333
+19/11/2020,Eddie,Forest Field,Blue View,27.04166667
+20/11/2020,Joe,Oak Lawn ,River Island,26.29822222
+21/11/2020,Eddie,Forest Field,Blue View,26.65472222
+22/11/2020,Joe,Middle North,River Island,26.306
+22/11/2020,Eddie,Forest Field,Blue View,25.62861111
+24/11/2020,Harry,Oak Lawn ,Creek Springs,27.93777778
+25/11/2020,Eddie,Forest Field,Blue View,45.60444444
+27/11/2020,Eddie,Forest Field,Blue View,22.45
+28/11/2020,Eddie,Forest Field,Blue View,23.32444444
+29/11/2020,Joe,Middle North,River Island,30.25
+29/11/2020,Eddie,Forest Field,Blue View,21.37583333
+30/11/2020,Eddie,Forest Field,Blue View,32.81611111
+1/12/2020,Eddie,Forest Field,Blue View,24.81083333
+3/12/2020,Joe,Middle North,River Island,40.466
+5/12/2020,Joe,Oak Lawn ,River Island,33.12577778
+6/12/2020,Andy,Middle North,Creek Springs,37.79638889
+8/12/2020,Andy,Oak Lawn ,River Island,31.96916667
+9/12/2020,Eddie,Forest Field,Blue View,23.57277778
+10/12/2020,Eddie,Forest Field,Blue View,40.3
+11/12/2020,Eddie,Forest Field,Blue View,24.43027778
+11/12/2020,Andy,Oak Lawn ,River Island,38.53527778
+12/12/2020,Eddie,Forest Field,Blue View,30.18361111
+13/12/2020,Harry,Oak Lawn ,Creek Springs,25.01833333
+14/12/2020,Harry,Middle North,Creek Springs,29.61472222
+19/12/2020,Andy,Middle North,River Island,42.10611111
+19/12/2020,Joe,Middle North,Creek Springs,20.22866667
+22/12/2020,Andy,Middle North,River Island,48.6
+22/12/2020,Joe,Middle North,River Island,31.99866667
+23/12/2020,Joe,Middle North,Creek Springs,22.83422222
+23/12/2020,Eddie,Forest Field,Blue View,22.84138889
+24/12/2020,Joe,Middle North,River Island,30.07666667
+24/12/2020,Eddie,Forest Field,Blue View,22.77111111
+25/12/2020,Eddie,Forest Field,Blue View,27.45166667
+25/12/2020,Andy,Middle North,Creek Springs,23.64027778
+26/12/2020,Eddie,Forest Field,Blue View,21.88666667
+27/12/2020,Eddie,Forest Field,Blue View,43.88777778
+29/12/2020,Eddie,Forest Field,Blue View,24.81722222
+30/12/2020,Eddie,Forest Field,Blue View,29.2875
+31/12/2020,Eddie,Forest Field,Blue View,28.50944444
+31/12/2020,Joe,Middle North,Creek Springs,27.64422222
+1/01/2021,Harry,Middle North,River Island,32.18472222
+2/01/2021,Eddie,Forest Field,Blue View,
+2/01/2021,Harry,Middle North,Creek Springs,30.76833333
+4/01/2021,Andy,Middle North,Creek Springs,34.75027778
+5/01/2021,Eddie,Forest Field,Blue View,
+5/01/2021,Harry,Middle North,Creek Springs,62.64138889
+6/01/2021,Eddie,Forest Field,Blue View,
+7/01/2021,Andy,Middle North,River Island,40.82555556
+9/01/2021,Eddie,Forest Field,Blue View,
+9/01/2021,Joe,Oak Lawn ,River Island,28.22688889
+9/01/2021,Eddie,Forest Field,Blue View,
+9/01/2021,Andy,Oak Lawn ,Creek Springs,33.05944444
+10/01/2021,Eddie,Forest Field,Blue View,
+10/01/2021,Andy,Middle North,Creek Springs,24.77555556
+11/01/2021,Harry,Oak Lawn ,River Island,36.23722222
+11/01/2021,Andy,Oak Lawn ,Creek Springs,26.74583333
+11/01/2021,Joe,Middle North,Creek Springs,25.21577778
+12/01/2021,Joe,Middle North,Creek Springs,23.30844444
+12/01/2021,Eddie,Forest Field,Blue View,
+12/01/2021,Andy,Oak Lawn ,River Island,39.97611111
+13/01/2021,Eddie,Forest Field,Blue View,
+14/01/2021,Eddie,Forest Field,Blue View,
+16/01/2021,Eddie,Forest Field,Blue View,
+17/01/2021,Harry,Oak Lawn ,River Island,35.30444444
+19/01/2021,Eddie,Forest Field,Blue View,
+19/01/2021,Andy,Oak Lawn ,Creek Springs,245.2880556
+21/01/2021,Eddie,Forest Field,Blue View,
+22/01/2021,Harry,Oak Lawn ,Creek Springs,22.99638889
+23/01/2021,Eddie,Forest Field,Blue View,-4.4334
+24/01/2021,Eddie,Forest Field,Blue View,-30.43
+26/01/2021,Joe,Oak Lawn ,River Island,36.484
+28/01/2021,Eddie,Forest Field,Blue View,
+29/01/2021,Eddie,Forest Field,Blue View,
+31/01/2021,Joe,Middle North,Creek Springs,40.79333333
+2/02/2021,Joe,Oak Lawn ,Creek Springs,35.34755556
+7/02/2021,Andy,Oak Lawn ,River Island,35.92
+7/02/2021,Joe,Oak Lawn ,River Island,29.64244444
+8/02/2021,Andy,Middle North,River Island,42.63055556
+10/02/2021,Eddie,Forest Field,Blue View,22.71055556
+11/02/2021,Eddie,Forest Field,Blue View,33.87222222
+12/02/2021,Eddie,Forest Field,Blue View,25.90222222
+13/02/2021,Harry,Oak Lawn ,Creek Springs,25.34666667
+18/02/2021,Eddie,Forest Field,Blue View,29.89222222
+19/02/2021,Eddie,Forest Field,Blue View,27.58472222
+21/02/2021,Eddie,Forest Field,Blue View,43.68
+23/02/2021,Harry,Middle North,River Island,77.91694444
+25/02/2021,Eddie,Forest Field,Blue View,28.70333333
+26/02/2021,Harry,Middle North,River Island,52.14055556
+26/02/2021,Eddie,Forest Field,Blue View,39.90666667
+27/02/2021,Eddie,Forest Field,Blue View,23.03805556
+28/02/2021,Eddie,Forest Field,Blue View,28.17361111
+2/03/2021,Eddie,Forest Field,Blue View,74.63805556
+3/03/2021,Andy,Oak Lawn ,River Island,36.39638889
+4/03/2021,Andy,Middle North,River Island,44.8025
+6/03/2021,Andy,Oak Lawn ,River Island,36.50555556
+6/03/2021,Eddie,Forest Field,Blue View,21.22361111
+7/03/2021,Eddie,Forest Field,Blue View,21.97583333
+7/03/2021,Andy,Middle North,River Island,36.94166667
+8/03/2021,Eddie,Forest Field,Blue View,24.10111111
+9/03/2021,Eddie,Forest Field,Blue View,44.80083333
+10/03/2021,Andy,Middle North,River Island,37.49583333
+12/03/2021,Eddie,Forest Field,Blue View,30.61277778
+13/03/2021,Eddie,Forest Field,Blue View,39.62194444
+14/03/2021,Andy,Middle North,River Island,39.525
+21/03/2021,Harry,Oak Lawn ,River Island,50.17027778
+21/03/2021,Eddie,Forest Field,Blue View,47.61027778
+23/03/2021,Eddie,Forest Field,Blue View,29.72722222
+28/03/2021,Eddie,Forest Field,Blue View,33.2925
+31/03/2021,Andy,Middle North,Creek Springs,29.95222222
+1/04/2021,Eddie,Forest Field,Blue View,22.45138889
+2/04/2021,Eddie,Forest Field,Blue View,24.3875
+3/04/2021,Andy,Oak Lawn ,Creek Springs,25.65722222
+3/04/2021,Harry,Middle North,River Island,31.21
+5/04/2021,Eddie,Forest Field,Blue View,23.75111111
+9/04/2021,Eddie,Forest Field,Blue View,24.94583333
+10/04/2021,Eddie,Forest Field,Blue View,35.07166667
+14/04/2021,Joe,Middle North,Creek Springs,35.40111111
+14/04/2021,Eddie,Forest Field,Blue View,35.11527778
+15/04/2021,Eddie,Forest Field,Blue View,71.31333333
+17/04/2021,Harry,Middle North,Creek Springs,36.06472222
+18/04/2021,Eddie,Forest Field,Blue View,27.435
+18/04/2021,Joe,Middle North,Creek Springs,62.60311111
+20/04/2021,Eddie,Forest Field,Blue View,30.61
+21/04/2021,Andy,Middle North,River Island,42.20388889
+21/04/2021,Joe,Oak Lawn ,River Island,32.57733333
+22/04/2021,Eddie,Forest Field,Blue View,35.555
+27/04/2021,Joe,Oak Lawn ,Creek Springs,28.88422222
+28/04/2021,Eddie,Forest Field,Blue View,24.80416667
+1/05/2021,Eddie,Forest Field,Blue View,22.18027778
+2/05/2021,Harry,Oak Lawn ,River Island,37.71972222
+3/05/2021,Andy,Oak Lawn ,River Island,46.09166667
+4/05/2021,Harry,Oak Lawn ,River Island,45.76277778
+6/05/2021,Harry,Oak Lawn ,Creek Springs,43.40527778
+7/05/2021,Joe,Oak Lawn ,River Island,42.90533333
+10/05/2021,Joe,Oak Lawn ,Creek Springs,30.90711111
+12/05/2021,Joe,Middle North,Creek Springs,25.60844444
+15/05/2021,Joe,Middle North,River Island,32.38511111
+18/05/2021,Joe,Middle North,River Island,39.368
+19/05/2021,Eddie,Forest Field,Blue View,145.6563889
+20/05/2021,Joe,Oak Lawn ,River Island,32.75377778
+21/05/2021,Harry,Oak Lawn ,River Island,48.60611111
+25/05/2021,Eddie,Forest Field,Blue View,46.41527778
+27/05/2021,Harry,Middle North,River Island,121.37
+27/05/2021,Eddie,Forest Field,Blue View,58.22111111
+27/05/2021,Joe,Middle North,River Island,68.87177778
+29/05/2021,Eddie,Forest Field,Blue View,39.59388889
+5/06/2021,Harry,Oak Lawn ,River Island,42.71111111
+6/06/2021,Andy,Oak Lawn ,River Island,43.91
+6/06/2021,Eddie,Forest Field,Blue View,22.25333333
+7/06/2021,Eddie,Forest Field,Blue View,27.49138889
+10/06/2021,Eddie,Forest Field,Blue View,36.96111111
+11/06/2021,Andy,Middle North,River Island,41.29388889
+12/06/2021,Andy,Oak Lawn ,River Island,39.00083333
+13/06/2021,Eddie,Forest Field,Blue View,35.57944444
+14/06/2021,Joe,Middle North,River Island,38.40088889
+15/06/2021,Eddie,Forest Field,Blue View,46.77583333
+17/06/2021,Eddie,Forest Field,Blue View,38.97388889
+19/06/2021,Eddie,Forest Field,Blue View,35.88166667
+19/06/2021,Joe,Middle North,River Island,33.13555556
+23/06/2021,Joe,Middle North,River Island,29.75266667
+24/06/2021,Eddie,Forest Field,Blue View,23.68472222
+25/06/2021,Andy,Oak Lawn ,River Island,41.95472222
+25/06/2021,Eddie,Forest Field,Blue View,30.0025
+27/06/2021,Eddie,Forest Field,Blue View,31.93888889
+28/06/2021,Joe,Middle North,River Island,41.39511111
+29/06/2021,Eddie,Forest Field,Blue View,93.23638889
+29/06/2021,Andy,Oak Lawn ,Creek Springs,25.23472222
+30/06/2021,Joe,Middle North,River Island,42.85755556
+2/07/2021,Harry,Oak Lawn ,Creek Springs,34.63527778
+3/07/2021,Eddie,Forest Field,Blue View,39.785
+4/07/2021,Harry,Oak Lawn ,Creek Springs,31.04666667
+4/07/2021,Eddie,Forest Field,Blue View,23.04527778
+8/07/2021,Eddie,Forest Field,Blue View,42.49916667
+10/07/2021,Eddie,Forest Field,Blue View,38.46555556
+11/07/2021,Andy,Oak Lawn ,Creek Springs,44.42416667
+11/07/2021,Eddie,Forest Field,Blue View,31.18444444
+13/07/2021,Eddie,Forest Field,Blue View,37.46083333
+14/07/2021,Andy,Oak Lawn ,River Island,6.639722222
+14/07/2021,Joe,Oak Lawn ,River Island,31.16577778
+14/07/2021,Eddie,Forest Field,Blue View,25.14055556
+16/07/2021,Eddie,Forest Field,Blue View,30.05388889
+18/07/2021,Eddie,Forest Field,Blue View,37.4975
+19/07/2021,Andy,Oak Lawn ,Creek Springs,28.05055556
+19/07/2021,Joe,Oak Lawn ,River Island,35.30644444
+20/07/2021,Eddie,Forest Field,Blue View,31.74083333
+20/07/2021,Andy,Oak Lawn ,River Island,43.64388889
+22/07/2021,Eddie,Forest Field,Blue View,27.81472222
+23/07/2021,Eddie,Forest Field,Blue View,26.41
+27/07/2021,Eddie,Forest Field,Blue View,28.25416667
+27/07/2021,Joe,Middle North,River Island,37.38244444
+28/07/2021,Eddie,Forest Field,Blue View,25.33555556
+29/07/2021,Eddie,Forest Field,Blue View,32.61611111
+29/07/2021,Andy,Oak Lawn ,Creek Springs,27.70888889
+31/07/2021,Eddie,Forest Field,Blue View,330.2652778
+1/08/2021,Andy,Middle North,River Island,38.74055556
+2/08/2021,Harry,Oak Lawn ,Creek Springs,28.34444444
+4/08/2021,Harry,Middle North,River Island,39.02416667
+11/08/2021,Harry,Middle North,River Island,43.14027778
+12/08/2021,Andy,Middle North,River Island,40.34694444
+14/08/2021,Eddie,Forest Field,Blue View,28.59444444
+17/08/2021,Joe,Oak Lawn ,River Island,33.898
+17/08/2021,Eddie,Forest Field,Blue View,25.09722222
+19/08/2021,Eddie,Forest Field,Blue View,30.71194444
+20/08/2021,Eddie,Forest Field,Blue View,30.27888889
+21/08/2021,Harry,Oak Lawn ,Creek Springs,25.98833333
+22/08/2021,Eddie,Forest Field,Blue View,25.90666667
+23/08/2021,Eddie,Forest Field,Blue View,21.80027778
+25/08/2021,Eddie,Forest Field,Blue View,24.84388889
+26/08/2021,Eddie,Forest Field,Blue View,32.58444444
+30/08/2021,Harry,Middle North,River Island,44.96333333
+30/08/2021,Eddie,Forest Field,Blue View,39.56194444
+1/09/2021,Eddie,Forest Field,Blue View,32.09305556
+4/09/2021,Eddie,Forest Field,Blue View,25.85694444
+4/09/2021,Andy,Middle North,River Island,39.805
+5/09/2021,Eddie,Forest Field,Blue View,30.995
+7/09/2021,Eddie,Forest Field,Blue View,32.86777778
+8/09/2021,Eddie,Forest Field,Blue View,24.02777778
+11/09/2021,Eddie,Forest Field,Blue View,22.93805556
+14/09/2021,Eddie,Forest Field,Blue View,28.99583333
+16/09/2021,Andy,Oak Lawn ,River Island,37.82777778
+17/09/2021,Harry,Oak Lawn ,Creek Springs,27.02333333
+18/09/2021,Eddie,Forest Field,Blue View,35.505
+19/09/2021,Eddie,Forest Field,Blue View,24.7625
+20/09/2021,Harry,Middle North,River Island,38.31027778
+22/09/2021,Eddie,Forest Field,Blue View,31.49472222
+23/09/2021,Eddie,Forest Field,Blue View,31.93138889
+30/09/2021,Eddie,Forest Field,Blue View,25.11222222
+1/10/2021,Eddie,Forest Field,Blue View,46.60083333
+4/10/2021,Joe,Oak Lawn ,Creek Springs,26.66866667
+5/10/2021,Eddie,Forest Field,Blue View,39.02888889
+6/10/2021,Eddie,Forest Field,Blue View,30.32027778
+13/10/2021,Eddie,Forest Field,Blue View,35.65861111
+15/10/2021,Andy,Oak Lawn ,River Island,45.03222222
+16/10/2021,Harry,Oak Lawn ,Creek Springs,30.47111111
+16/10/2021,Eddie,Forest Field,Blue View,54.84861111
+19/10/2021,Joe,Oak Lawn ,River Island,26.65822222
+20/10/2021,Eddie,Forest Field,Blue View,26.83027778
+21/10/2021,Eddie,Forest Field,Blue View,34.95361111
+22/10/2021,Joe,Oak Lawn ,River Island,34.69511111
+23/10/2021,Eddie,Forest Field,Blue View,60.95833333
+24/10/2021,Joe,Middle North,River Island,53.33288889
+25/10/2021,Andy,Middle North,River Island,42.54694444
+27/10/2021,Joe,Oak Lawn ,River Island,36.53866667
+29/10/2021,Joe,Oak Lawn ,River Island,36.35044444
+31/10/2021,Harry,Middle North,River Island,38.78666667
+7/11/2021,Harry,Oak Lawn ,River Island,40.1725
+7/11/2021,Andy,Oak Lawn ,Creek Springs,28.45333333
+8/11/2021,Eddie,Forest Field,Blue View,52.47694444
+8/11/2021,Joe,Middle North,Creek Springs,20.90533333
+9/11/2021,Joe,Middle North,Creek Springs,24.02844444
+12/11/2021,Joe,Oak Lawn ,River Island,27.86422222
+12/11/2021,Eddie,Forest Field,Blue View,56.17
+13/11/2021,Andy,Middle North,River Island,36.89888889
+16/11/2021,Eddie,Forest Field,Blue View,55.00944444
+18/11/2021,Eddie,Forest Field,Blue View,27.58805556
+19/11/2021,Eddie,Forest Field,Blue View,45.14138889
+19/11/2021,Harry,Oak Lawn ,River Island,42.63555556
+21/11/2021,Eddie,Forest Field,Blue View,105.2691667
+22/11/2021,Harry,Oak Lawn ,Creek Springs,29.42916667
+26/11/2021,Eddie,Forest Field,Blue View,24.55722222
+27/11/2021,Eddie,Forest Field,Blue View,23.13805556
+27/11/2021,Harry,Middle North,River Island,53.92972222
+28/11/2021,Eddie,Forest Field,Blue View,29.20083333
+29/11/2021,Joe,Oak Lawn ,River Island,28.06155556
+1/12/2021,Eddie,Forest Field,Blue View,39.77916667
+3/12/2021,Eddie,Forest Field,Blue View,31.08611111
+3/12/2021,Joe,Oak Lawn ,River Island,36.00777778
+4/12/2021,Andy,Oak Lawn ,River Island,33.65638889
+4/12/2021,Eddie,Forest Field,Blue View,33.50611111
+5/12/2021,Joe,Oak Lawn ,Creek Springs,24.54288889
+9/12/2021,Joe,Oak Lawn ,River Island,32.33133333
+10/12/2021,Eddie,Forest Field,Blue View,80.42722222
+17/12/2021,Harry,Middle North,Creek Springs,51.5675
+18/12/2021,Andy,Middle North,Creek Springs,26.71972222
+21/12/2021,Joe,Middle North,Creek Springs,20.56288889
+22/12/2021,Eddie,Forest Field,Blue View,24.76555556
+23/12/2021,Eddie,Forest Field,Blue View,27.67305556
+26/12/2021,Eddie,Forest Field,Blue View,63.76777778
+26/12/2021,Andy,Middle North,River Island,36.05972222
+27/12/2021,Harry,Middle North,River Island,34.02555556
+28/12/2021,Andy,Oak Lawn ,Creek Springs,26.76777778
+28/12/2021,Eddie,Forest Field,Blue View,51.42138889
+29/12/2021,Harry,Oak Lawn ,River Island,33.15611111
+30/12/2021,Andy,Middle North,River Island,32.63055556
+3/01/2022,Joe,Oak Lawn ,Creek Springs,28.76933333
+8/01/2022,Andy,Middle North,Creek Springs,41.94722222
+10/01/2022,Joe,Oak Lawn ,Creek Springs,22.86377778
+10/01/2022,Harry,Oak Lawn ,Creek Springs,30.26972222
+15/01/2022,Andy,Oak Lawn ,River Island,50.75472222
+20/01/2022,Andy,Middle North,Creek Springs,40.67416667
+21/01/2022,Joe,Middle North,Creek Springs,19.12155556
+25/01/2022,Joe,Middle North,River Island,28.61066667
+28/01/2022,Andy,Middle North,River Island,51.22333333
+31/01/2022,Harry,Oak Lawn ,River Island,49.02583333
+3/02/2022,Joe,Middle North,Creek Springs,45.298
+5/02/2022,Joe,Middle North,River Island,51.36
+5/02/2022,Eddie,Forest Field,Blue View,106.4208333
+11/02/2022,Harry,Middle North,Creek Springs,42.61055556
+13/02/2022,Harry,Oak Lawn ,Creek Springs,42.3275
+14/02/2022,Joe,Oak Lawn ,Creek Springs,25.87688889
+17/02/2022,Joe,Oak Lawn ,River Island,28.94733333
+20/02/2022,Andy,Middle North,River Island,67.14472222
+21/02/2022,Eddie,Forest Field,Blue View,41.795
+22/02/2022,Eddie,Forest Field,Blue View,30.16972222
+23/02/2022,Harry,Oak Lawn ,River Island,36.515
+24/02/2022,Eddie,Forest Field,Blue View,92.385
+27/02/2022,Andy,Oak Lawn ,River Island,86.29416667
+3/03/2022,Andy,Middle North,River Island,54.87027778
+3/03/2022,Eddie,Forest Field,Blue View,44.805
+5/03/2022,Andy,Oak Lawn ,Creek Springs,33.00361111
+5/03/2022,Eddie,Forest Field,Blue View,28.80083333
+6/03/2022,Eddie,Forest Field,Blue View,27.77833333
+7/03/2022,Eddie,Forest Field,Blue View,44.06555556
+12/03/2022,Eddie,Forest Field,Blue View,33.01277778
+13/03/2022,Eddie,Forest Field,Blue View,71.24138889
+17/03/2022,Joe,Middle North,Creek Springs,22.09466667
+19/03/2022,Eddie,Forest Field,Blue View,31.93638889
+19/03/2022,Andy,Oak Lawn ,River Island,39.35666667
+20/03/2022,Eddie,Forest Field,Blue View,23.24583333
+21/03/2022,Harry,Middle North,Creek Springs,77.13472222
+21/03/2022,Eddie,Forest Field,Blue View,46.22638889
+22/03/2022,Joe,Middle North,River Island,85.44
+22/03/2022,Andy,Middle North,Creek Springs,60.95888889
+23/03/2022,Eddie,Forest Field,Blue View,31.62472222
+24/03/2022,Eddie,Forest Field,Blue View,24.95888889
+25/03/2022,Andy,Oak Lawn ,Creek Springs,33.68861111
+25/03/2022,Eddie,Forest Field,Blue View,40.01666667
+26/03/2022,Joe,Middle North,Creek Springs,24.76133333
+28/03/2022,Eddie,Forest Field,Blue View,27.65472222
+29/03/2022,Eddie,Forest Field,Blue View,34.77361111
+30/03/2022,Andy,Middle North,River Island,37.6675
+31/03/2022,Eddie,Forest Field,Blue View,29.1325
+1/04/2022,Eddie,Forest Field,Blue View,42.90916667
+3/04/2022,Eddie,Forest Field,Blue View,0.076388889
+5/04/2022,Joe,Middle North,River Island,32.25622222
+6/04/2022,Eddie,Forest Field,Blue View,66.98305556
+11/04/2022,Andy,Oak Lawn ,River Island,61.20361111
+17/04/2022,Eddie,Forest Field,Blue View,32.96222222
+21/04/2022,Eddie,Forest Field,Blue View,29.86527778
+23/04/2022,Joe,Oak Lawn ,Creek Springs,19.62466667
+29/04/2022,Joe,Oak Lawn ,River Island,37.36733333
+1/05/2022,Andy,Oak Lawn ,Creek Springs,28.70527778
+2/05/2022,Andy,Oak Lawn ,River Island,37.9825
+5/05/2022,Joe,Oak Lawn ,Creek Springs,19.65133333
+7/05/2022,Eddie,Forest Field,Blue View,33.78416667
+8/05/2022,Harry,Oak Lawn ,River Island,34.33555556
+8/05/2022,Joe,Oak Lawn ,River Island,26.12311111
+9/05/2022,Joe,Oak Lawn ,River Island,29.67822222
+11/05/2022,Eddie,Forest Field,Blue View,51.12083333
+15/05/2022,Joe,Oak Lawn ,River Island,39.308
+15/05/2022,Andy,Oak Lawn ,River Island,35.73861111
+16/05/2022,Eddie,Forest Field,Blue View,53.22666667
+17/05/2022,Harry,Middle North,Creek Springs,63.84444444
+20/05/2022,Eddie,Forest Field,Blue View,27.07388889
+20/05/2022,Andy,Oak Lawn ,River Island,47.11916667
+24/05/2022,Eddie,Forest Field,Blue View,36.00555556
+26/05/2022,Andy,Oak Lawn ,Creek Springs,28.69222222
+26/05/2022,Eddie,Forest Field,Blue View,22.89166667
+27/05/2022,Eddie,Forest Field,Blue View,27.90027778
+30/05/2022,Eddie,Forest Field,Blue View,41.35277778
+31/05/2022,Joe,Oak Lawn ,River Island,40.57355556
+2/06/2022,Joe,Middle North,River Island,34.79977778
+4/06/2022,Eddie,Forest Field,Blue View,25.69694444
+5/06/2022,Eddie,Forest Field,Blue View,24.83416667
+10/06/2022,Eddie,Forest Field,Blue View,26.24527778
+11/06/2022,Eddie,Forest Field,Blue View,28.11444444
+11/06/2022,Harry,Middle North,Creek Springs,7.655277778
+12/06/2022,Eddie,Forest Field,Blue View,47.64333333
+12/06/2022,Andy,Middle North,Creek Springs,52.79055556
+15/06/2022,Harry,Oak Lawn ,River Island,34.20972222
+18/06/2022,Eddie,Forest Field,Blue View,24.06583333
+19/06/2022,Eddie,Forest Field,Blue View,31.37833333
+23/06/2022,Andy,Middle North,Creek Springs,34.39055556
+26/06/2022,Andy,Middle North,River Island,49.28972222
+27/06/2022,Joe,Middle North,Creek Springs,29.88888889
+28/06/2022,Harry,Middle North,River Island,33.91888889
+1/07/2022,Joe,Middle North,Creek Springs,22.33155556
+2/07/2022,Andy,Oak Lawn ,Creek Springs,26.20333333
+2/07/2022,Eddie,Forest Field,Blue View,31.555
+6/07/2022,Eddie,Forest Field,Blue View,27.23666667
+9/07/2022,Harry,Middle North,River Island,38.58388889
+9/07/2022,Eddie,Forest Field,Blue View,35.35861111
+11/07/2022,Harry,Oak Lawn ,River Island,40.88611111
+12/07/2022,Eddie,Forest Field,Blue View,30.14055556
+14/07/2022,Harry,Oak Lawn ,Creek Springs,46.07583333
+16/07/2022,Eddie,Forest Field,Blue View,24.94888889
+17/07/2022,Eddie,Forest Field,Blue View,29.83194444
+21/07/2022,Andy,Oak Lawn ,Creek Springs,29.64388889
+22/07/2022,Harry,Middle North,River Island,34.19722222
+25/07/2022,Eddie,Forest Field,Blue View,22.14527778
+26/07/2022,Eddie,Forest Field,Blue View,23.73972222
+26/07/2022,Harry,Oak Lawn ,River Island,36.97944444
+27/07/2022,Eddie,Forest Field,Blue View,31.90916667
+28/07/2022,Eddie,Forest Field,Blue View,226.3055556
+2/08/2022,Harry,Middle North,River Island,44.75305556
+2/08/2022,Joe,Oak Lawn ,River Island,37.23533333
+7/08/2022,Eddie,Forest Field,Blue View,24.15916667
+7/08/2022,Harry,Middle North,River Island,38.27388889
+8/08/2022,Eddie,Forest Field,Blue View,37.18777778
+9/08/2022,Joe,Oak Lawn ,River Island,41.61355556
+11/08/2022,Eddie,Forest Field,Blue View,25.70027778
+12/08/2022,Eddie,Forest Field,Blue View,51.9725
+14/08/2022,Eddie,Forest Field,Blue View,28.14944444
+14/08/2022,Andy,Oak Lawn ,River Island,39.84527778
+20/08/2022,Eddie,Forest Field,Blue View,35.73333333
+21/08/2022,Eddie,Forest Field,Blue View,23.54416667
+21/08/2022,Joe,Middle North,Creek Springs,20.46
+24/08/2022,Eddie,Forest Field,Blue View,24.40166667
+25/08/2022,Harry,Middle North,River Island,35.59527778
+26/08/2022,Eddie,Forest Field,Blue View,25.13027778
+27/08/2022,Eddie,Forest Field,Blue View,23.25666667
+30/08/2022,Harry,Oak Lawn ,River Island,39.22916667
+1/09/2022,Eddie,Forest Field,Blue View,21.71638889
+2/09/2022,Eddie,Forest Field,Blue View,29.235
+7/09/2022,Eddie,Forest Field,Blue View,41.55944444
+8/09/2022,Joe,Middle North,Creek Springs,24.73422222
+9/09/2022,Harry,Middle North,River Island,43.03638889
+10/09/2022,Eddie,Forest Field,Blue View,20.01416667
+10/09/2022,Joe,Oak Lawn ,Creek Springs,31.55555556
+11/09/2022,Eddie,Forest Field,Blue View,24.47527778
+13/09/2022,Andy,Middle North,Creek Springs,30.90083333
+14/09/2022,Eddie,Forest Field,Blue View,19.56444444
+15/09/2022,Harry,Oak Lawn ,Creek Springs,31.33583333
+17/09/2022,Harry,Oak Lawn ,Creek Springs,33.795
+17/09/2022,Eddie,Forest Field,Blue View,19.54055556
+19/09/2022,Eddie,Forest Field,Blue View,20.58805556
+20/09/2022,Eddie,Forest Field,Blue View,25.56305556
+21/09/2022,Eddie,Forest Field,Blue View,22.61055556
+22/09/2022,Joe,Middle North,Creek Springs,22.75533333
+24/09/2022,Eddie,Forest Field,Blue View,24.28777778
+25/09/2022,Eddie,Forest Field,Blue View,21.39861111
+26/09/2022,Eddie,Forest Field,Blue View,21.70194444
+28/09/2022,Eddie,Forest Field,Blue View,72.54472222
+29/09/2022,Harry,Middle North,River Island,60.33388889
+30/09/2022,Andy,Oak Lawn ,River Island,35.73666667
+1/10/2022,Eddie,Forest Field,Blue View,20.63277778
+2/10/2022,Eddie,Forest Field,Blue View,22.25111111
+3/10/2022,Eddie,Forest Field,Blue View,27.05638889
+4/10/2022,Joe,Middle North,River Island,25.868
+5/10/2022,Eddie,Forest Field,Blue View,21.30527778
+6/10/2022,Eddie,Forest Field,Blue View,19.45944444
+7/10/2022,Eddie,Forest Field,Blue View,21.37583333
+8/10/2022,Andy,Middle North,River Island,38.18444444
+8/10/2022,Eddie,Forest Field,Blue View,22.59444444
+10/10/2022,Joe,Oak Lawn ,River Island,34.51488889
+11/10/2022,Eddie,Forest Field,Blue View,20.5225
+12/10/2022,Joe,Oak Lawn ,Creek Springs,24.41866667
+13/10/2022,Eddie,Forest Field,Blue View,21.38583333
+14/10/2022,Eddie,Forest Field,Blue View,20.29361111
+14/10/2022,Andy,Oak Lawn ,Creek Springs,38.05388889
+15/10/2022,Eddie,Forest Field,Blue View,80.235
+19/10/2022,Harry,Middle North,River Island,50.52944444
+19/10/2022,Eddie,Forest Field,Blue View,26.67972222
+20/10/2022,Eddie,Forest Field,Blue View,21.57027778
+22/10/2022,Eddie,Forest Field,Blue View,26.23333333
+23/10/2022,Eddie,Forest Field,Blue View,32.21277778
+27/10/2022,Eddie,Forest Field,Blue View,24.70416667
+27/10/2022,Andy,Oak Lawn ,Creek Springs,27.00805556
+28/10/2022,Joe,Middle North,Creek Springs,24.15444444
+28/10/2022,Eddie,Forest Field,Blue View,21.52694444
+29/10/2022,Eddie,Forest Field,Blue View,24.3925
+30/10/2022,Eddie,Forest Field,Blue View,162.9938889
+31/10/2022,Harry,Middle North,River Island,40.37
+2/11/2022,Joe,Middle North,Creek Springs,35.98177778
+5/11/2022,Andy,Oak Lawn ,Creek Springs,39.75694444
+6/11/2022,Eddie,Forest Field,Blue View,35.58194444
+7/11/2022,Eddie,Forest Field,Blue View,38.84694444
+9/11/2022,Eddie,Forest Field,Blue View,27.96777778
+13/11/2022,Andy,Middle North,Creek Springs,26.01805556
+13/11/2022,Eddie,Forest Field,Blue View,34.23194444
+13/11/2022,Eddie,Forest Field,Blue View,22.27027778
+15/11/2022,Andy,Middle North,River Island,37.26444444
+16/11/2022,Joe,Middle North,River Island,27.588
+19/11/2022,Eddie,Forest Field,Blue View,24.45944444
+19/11/2022,Eddie,Forest Field,Blue View,23.43138889
+20/11/2022,Andy,Middle North,Creek Springs,31.30777778
+21/11/2022,Eddie,Forest Field,Blue View,30.38194444
+22/11/2022,Andy,Oak Lawn ,Creek Springs,44.69638889
+26/11/2022,Joe,Oak Lawn ,River Island,37.58977778
+4/12/2022,Eddie,Forest Field,Blue View,20.97222222
+6/12/2022,Eddie,Forest Field,Blue View,23.33277778
+7/12/2022,Eddie,Forest Field,Blue View,25.96694444
+7/12/2022,Andy,Middle North,River Island,37.30027778
+10/12/2022,Andy,Middle North,Creek Springs,28.34527778
+12/12/2022,Joe,Oak Lawn ,Creek Springs,18.49444444
+12/12/2022,Eddie,Forest Field,Blue View,30.29972222
+16/12/2022,Eddie,Forest Field,Blue View,21.60444444
+17/12/2022,Eddie,Forest Field,Blue View,20.70222222
+21/12/2022,Andy,Middle North,River Island,71.60166667
+26/12/2022,Harry,Oak Lawn ,River Island,34.15527778
+27/12/2022,Eddie,Forest Field,Blue View,28.06055556
+27/12/2022,Joe,Middle North,River Island,28.296
